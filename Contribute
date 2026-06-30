@@ -1,0 +1,131 @@
+# Contributing
+
+¡Gracias por tu interés en contribuir! 🎉
+
+El objetivo de este repositorio es construir una biblioteca abierta de material académico para toda la facultad. Aquí podrás encontrar apuntes, parciales, talleres, presentaciones, guías y otros recursos organizados por asignatura.
+
+No importa si sabes usar Git, GitHub o LaTeX. Existen varias formas de contribuir.
+
+---
+
+## Antes de contribuir
+
+Antes de enviar material, asegúrate de que:
+
+- El contenido sea de una asignatura de la facultad.
+- El material pueda compartirse legalmente.
+- No incluya información personal o sensible (nombres, códigos, correos, calificaciones, etc.).
+- Si es un parcial o evaluación, verifica que su publicación no infrinja las políticas de la universidad o del docente.
+- El material tenga la mejor calidad posible (fotografías legibles, PDFs completos, etc.).
+
+---
+
+# Formas de contribuir
+
+## 1. Abrir un GitHub Issue (Recomendado)
+
+Esta es la forma más sencilla para la mayoría de usuarios.
+
+Crea un **Issue** indicando:
+
+- Asignatura
+- Tipo de material (apuntes, parcial, presentación, taller, laboratorio, etc.)
+- Profesor (opcional)
+- Archivos correspondientes
+
+Un mantenedor se encargará de revisar el material y organizarlo dentro del repositorio.
+
+---
+
+## 2. Crear un Pull Request
+
+Si ya conoces Git, GitHub, LaTeX y deseas contribuir directamente, puedes abrir un Pull Request.
+
+Esto es especialmente útil si:
+
+- Escribiste los apuntes usando nuestra plantilla de LaTeX.
+- Estás corrigiendo errores.
+- Estás agregando nuevo contenido siguiendo la estructura del repositorio.
+- Mejoras documentación o plantillas.
+
+Antes de enviar un Pull Request verifica que:
+
+- Se siga la estructura de directorios del proyecto.
+- Se utilice la plantilla oficial de LaTeX (cuando corresponda).
+- El proyecto compile correctamente.
+- No existan archivos innecesarios.
+- Los nombres de archivos y carpetas sean consistentes.
+
+Todos los Pull Requests serán revisados antes de ser aceptados.
+
+---
+
+## 3. Enviar el material por correo
+
+Si no utilizas GitHub, también puedes enviar tus materiales por correo electrónico.
+
+Puedes enviar:
+
+- PDFs
+- Fotografías de apuntes
+- Presentaciones
+- Parciales
+- Talleres
+- Laboratorios
+- Cualquier otro material útil
+
+En el correo intenta indicar:
+
+- Asignatura
+- Tipo de material
+- Profesor (opcional)
+
+Nosotros nos encargaremos de organizar el contenido dentro del repositorio.
+
+> **Correo:** `miguela.arevalof@utadeo.edu.co`
+
+---
+
+# Contribuciones en LaTeX
+
+Si deseas escribir apuntes directamente en LaTeX:
+
+- Utiliza la plantilla oficial del repositorio.
+- Mantén el formato establecido.
+- Sigue las convenciones de nombres de archivos y carpetas.
+- Evita modificar la plantilla salvo que sea necesario.
+
+---
+
+# Calidad del material
+
+Nuestro objetivo es mantener un repositorio de alta calidad.
+
+Por ello agradecemos que el material sea:
+
+- Claro y legible.
+- Correctamente organizado.
+- Lo más completo posible.
+- Libre de información personal.
+- Revisado antes de enviarlo.
+
+---
+
+# Código de conducta
+
+Todas las contribuciones deben realizarse con respeto hacia la comunidad.
+
+No se aceptará material que:
+
+- Vulnere derechos de autor.
+- Contenga información personal de terceros.
+- Sea ofensivo o inapropiado.
+- Incumpla las normas de la universidad.
+
+---
+
+# ¿Tienes dudas?
+
+Si no sabes cuál es la mejor forma de contribuir, simplemente abre un **Issue** y estaremos encantados de ayudarte.
+
+¡Gracias por ayudar a construir una biblioteca académica abierta para toda la comunidad! ❤️
