@@ -10,4 +10,4 @@
 *.out
 *.run.xml
 *.toc
-
+.auctex-auto/
