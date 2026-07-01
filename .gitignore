@@ -1,5 +1,5 @@
 *.7z
-*.tag.gz
+*.tar.gz
 *.aux
 *.bbl
 *.bcf
